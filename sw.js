@@ -1,4 +1,4 @@
-const options = {"workboxURL":"https://cdn.jsdelivr.net/npm/workbox-cdn@5.1.4/workbox/workbox-sw.js","importScripts":[],"config":{"debug":false},"cacheOptions":{"cacheId":"QEasyMenu-prod","directoryIndex":"/","revision":"yv3GJy9Lnn4L"},"clientsClaim":true,"skipWaiting":true,"cleanupOutdatedCaches":true,"offlineAnalytics":false,"preCaching":[{"revision":"yv3GJy9Lnn4L","url":"/?standalone=true"}],"runtimeCaching":[],"offlinePage":null,"pagesURLPattern":"/","offlineStrategy":"NetworkFirst"}
+const options = {"workboxURL":"https://cdn.jsdelivr.net/npm/workbox-cdn@5.1.4/workbox/workbox-sw.js","importScripts":[],"config":{"debug":false},"cacheOptions":{"cacheId":"QEasyMenu-prod","directoryIndex":"/","revision":"VcmbXQ4rZ3DG"},"clientsClaim":true,"skipWaiting":true,"cleanupOutdatedCaches":true,"offlineAnalytics":false,"preCaching":[{"revision":"VcmbXQ4rZ3DG","url":"/?standalone=true"}],"runtimeCaching":[],"offlinePage":null,"pagesURLPattern":"/","offlineStrategy":"NetworkFirst"}
 
 importScripts(...[options.workboxURL, ...options.importScripts])
 
