@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/esafety/timeline", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mtisaleportals",
+  "private_key_id": "f7ecc96723513892ed43ce8ba6620db342eed504",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCWZXnfAGbOcbM\nJ6F+xkHf6x43RxEvbGbM8wthSwcEQljXs5gAfbf1dcfXZCmrfgaXLfLRRkNShZF9\nC1HklPTHRqlwLXDfKe8LM/2gmHdI3Xssj6Fo3/gsoydkE2mYsz+YJJe9qA1NFXN0\nZECR9Wl77VpD3D+WPSWy1VfyBPmwtpgbWzTt6C+cjtX6aquayK1vDrsM7swGeJMY\njvocRvjv7BVykCzlgpz0AhPyT+VmkHqwY1tl4MZjgL/LKGbJKda5ybwgWVQ5Ll4o\ne1swkRRY1mlxuoYiFnsWM/6ZvBggY8ngAW+KB8g9EHpE/pWzY0i+a0z0O+AEX/qt\ns3bxuwvRAgMBAAECggEAAc+RH54miy5VgXk0jmB1RGt1xXzUZolXZ10z29EVxIbE\nOmVGWynQtRkm9qUspLgIwm+XibbigXI0ZfJ9LbisE6+/PCf2O2QSAbwXJsAI631B\nzKtdbQNaNftCrpJmO1mfM/ESV15pmlBi+iCFf/6mABU48DUtA/63m1QUzNDaTTjQ\nJ29fbkpI9EACky3T9qcAw4Bc2UgGfAbkuV2fh5lbHSn1njo8Zfs7vXWkemTpJsMF\n8PP+SCcfXoxh1pzgt6NdhWimygN1L15uswmq/2B1zarHiFuQcv1jiZVubmu2rcr2\nnJlxUsGevwHg6bIpuhQLTzi4dbBsGZ55hHKWrCB5QQKBgQDju4ZkD9E1iZ6AzpfJ\ncRNdUMqfhYRl6pikElqwCFqDKkXihO453wW2Xzzbacf0UHMPbONllkK+JvTOfeEb\nH1ivaHcUUH/oGkznKAXLvZJq3S6gl9UoHmlSmEag7wEb9tNSK9Ixs8iYFcA4+BAE\nDG2/zZwVtvdl9ealLZhCDYYj8QKBgQDaeUn/fguODUtG49wMCwNGXnZFFBJnWD6T\nyGCrChEox8Re+aRpeZ6b+tpQXMRLJrTj27Zc/PztzhNaYGuvBGQi2mUtKqtGW06m\nIG3/yZYJssBHZ6oFRP0rcCheM1e9bjVFGz41oXItbW6ULKu7bEGfQjwXJxjb7q9b\n7St0UP3F4QKBgQC5HP2o6JKOikclPMl1HU04VSvfb5Cnp4JcG+9Ll/67D+mur49V\ny0vBarj1QY8fsSVWLJTLRtEJ8HCeSQRqH5jfPHNPOABAkuBgJdBQRNB3vULhl4nV\nCqNiWBVRS/YC3Sf5a1V4wUMVHNkbdcjPAatUdbWikQ+Y+cF6Ew3o40VegQKBgBbg\n4rXlrjIXBE4NKIr+UD57P+ll+7Nk01DIiA8BQ+DAYrkLbYM6IDj3YQtPW6L/D6xY\n4tUEDTyd+vrY5A306MOZmUTMlhkNEMRm2v4RTyv+0xHnMi/RFK4K1b9fow2MT/nH\nq5EUMg+9yPmtX+KFqK2T0xUdnAXUDfsTcByDKsAhAoGAa22JKR6e/+RtrtjwnVoU\nepqURtys7I7ESGq1Trie07Si7aAYBPIfun+/tdJqI1XR28xoYaHIaMLFZ+OAAiYr\nrdk1NqD7XGD66FmUmz3V32aciqNpr9D7fKtF9jWg78WOgepK/GD9OL8rJUG54fCJ\nR52vL95zU6z0ioDeT8SOle8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-j50v8@mtisaleportals.iam.gserviceaccount.com",
+  "client_id": "109067265916762291245",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-j50v8%40mtisaleportals.iam.gserviceaccount.com"
+}

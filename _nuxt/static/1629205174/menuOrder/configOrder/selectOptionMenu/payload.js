@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/menuOrder/configOrder/selectOptionMenu", {data:[{}],fetch:{},mutations:void 0});

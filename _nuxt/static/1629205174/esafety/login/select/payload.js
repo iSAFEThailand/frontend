@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/esafety/login/select", {data:[{}],fetch:{},mutations:void 0});

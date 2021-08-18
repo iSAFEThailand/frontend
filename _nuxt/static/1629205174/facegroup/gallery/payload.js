@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/facegroup/gallery", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/joborder/report/company", {data:[{}],fetch:{},mutations:void 0});

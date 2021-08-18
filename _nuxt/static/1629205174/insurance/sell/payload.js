@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/insurance/sell", {data:[{}],fetch:{},mutations:void 0});

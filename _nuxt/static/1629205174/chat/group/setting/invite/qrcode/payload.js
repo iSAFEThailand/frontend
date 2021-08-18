@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/chat/group/setting/invite/qrcode", {data:[{}],fetch:{},mutations:void 0});

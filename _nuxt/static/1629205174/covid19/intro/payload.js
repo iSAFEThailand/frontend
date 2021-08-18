@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/covid19/intro", {data:[{}],fetch:{},mutations:void 0});

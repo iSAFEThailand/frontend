@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/safetyalert/detail", {data:[{}],fetch:{},mutations:void 0});

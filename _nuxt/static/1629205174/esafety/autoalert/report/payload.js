@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/esafety/autoalert/report", {data:[{}],fetch:{},mutations:void 0});

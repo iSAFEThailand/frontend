@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/esafety/quarantine/create-person", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/menuOrder/configOrder/createMenu", {data:[{}],fetch:{},mutations:void 0});

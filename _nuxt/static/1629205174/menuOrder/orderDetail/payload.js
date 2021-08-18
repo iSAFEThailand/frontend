@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/menuOrder/orderDetail", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/esafety/home/queue_order", {data:[{}],fetch:{},mutations:void 0});

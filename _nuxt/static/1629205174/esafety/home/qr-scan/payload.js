@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/esafety/home/qr-scan", {data:[{}],fetch:{},mutations:void 0});

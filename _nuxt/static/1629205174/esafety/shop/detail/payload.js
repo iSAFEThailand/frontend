@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/esafety/shop/detail", {data:[{}],fetch:{},mutations:void 0});

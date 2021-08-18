@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/chat/group/message", {data:[{}],fetch:{},mutations:void 0});

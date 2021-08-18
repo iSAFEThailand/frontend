@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/esafety/travelplan/myplan", {data:[{}],fetch:{},mutations:void 0});
